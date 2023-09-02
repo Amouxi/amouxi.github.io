@@ -1,4 +1,4 @@
-!(Machine Info Card)[_images/MonitorsTwo.png]
+![Machine Info Card](_images/MonitorsTwo.png)
 ### retired on (02/09/2023)
 # Summary: 
 ## foothold:
@@ -49,7 +49,7 @@ Nmap done: 1 IP address (1 host up) scanned in 13.50 seconds
 
 ### PORT 80
 visiting port 80 we see a login prompt with Version and software name available.
-![[Pasted image 20230902160102.png]]
+![](_images/Pasted image 20230902160102.png)
 
 searching on google the software and version we're able to find an exploit on github. 
 
@@ -171,4 +171,4 @@ now running `/bin/bash -p` from that path will grant us root user.
 
 # additional information
 more on root exploit:
-https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure
+`https://www.cyberark.com/resources/threat-research-blog/how-docker-made-me-more-capable-and-the-host-less-secure`
