@@ -1,4 +1,4 @@
-![[MonitorsTwo.png]]
+!(Machine Info Card)[_images/MonitorsTwo.png]
 ### retired on (02/09/2023)
 # Summary: 
 ## foothold:
